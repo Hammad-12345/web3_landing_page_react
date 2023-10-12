@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/web3_landing_page_react/static/css/main.43617163.css",
+    "main.js": "/web3_landing_page_react/static/js/main.388f4217.js",
+    "static/media/card2.png": "/web3_landing_page_react/static/media/card2.48b8ce898121007c9d5e.png",
+    "static/media/globe.png": "/web3_landing_page_react/static/media/globe.b8689474e6c5011f1bf7.png",
+    "static/media/globe1.png": "/web3_landing_page_react/static/media/globe1.b8689474e6c5011f1bf7.png",
+    "static/media/person3.png": "/web3_landing_page_react/static/media/person3.559a1667bd7d7b30183a.png",
+    "static/media/person2.png": "/web3_landing_page_react/static/media/person2.ece7ba46b5fe10b147a8.png",
+    "static/media/person1.png": "/web3_landing_page_react/static/media/person1.d870ca94d6fca082140f.png",
+    "static/media/crypto1.png": "/web3_landing_page_react/static/media/crypto1.1834229920e7e6f4af68.png",
+    "static/media/bulb.png": "/web3_landing_page_react/static/media/bulb.70179df14ca2e302bf5c.png",
+    "static/media/card3.png": "/web3_landing_page_react/static/media/card3.a088f764c6faacf7dbe9.png",
+    "static/media/person4.jpg": "/web3_landing_page_react/static/media/person4.0d88ee8c6c13a94091de.jpg",
+    "static/media/webflow.png": "/web3_landing_page_react/static/media/webflow.62d14e3e36df10b446ed.png",
+    "static/media/chargebee.png": "/web3_landing_page_react/static/media/chargebee.5fa307c7c7b098a949b9.png",
+    "static/media/emachines.png": "/web3_landing_page_react/static/media/emachines.674a739924f4298f4f04.png",
+    "static/media/corsair.svg": "/web3_landing_page_react/static/media/corsair.b48ae4c8e281ca8a2d91bd1bcec688ae.svg",
+    "index.html": "/web3_landing_page_react/index.html",
+    "main.43617163.css.map": "/web3_landing_page_react/static/css/main.43617163.css.map",
+    "main.388f4217.js.map": "/web3_landing_page_react/static/js/main.388f4217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43617163.css",
+    "static/js/main.388f4217.js"
+  ]
+}
